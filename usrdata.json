@@ -6,8 +6,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "c695facad4d888a9",
-        "key": "12345",
+        "device_id": "device",
+        "key": "62272",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
@@ -18,7 +18,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "debice123",
+        "device_id": "c695facad4d888a9",
         "key": "yawa",
         "expirydate": "12-12-2026",
         "Allowoffline": false
