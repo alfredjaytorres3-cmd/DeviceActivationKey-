@@ -13,37 +13,37 @@
     },
     {
         "device_id": "ce28d1ba193428e9",
-        "key": "BOYJAKOL",
+        "key": "BOOL",
         "expirydate": "15-06-2029",
         "Allowoffline": false
     },
     {
         "device_id": "bfa6487578e31995",
-        "key": "trial123",
+        "key": "tri23",
         "expirydate": "25-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "951e321ee2969d7b",
-        "key": "KUPALKABOSS",
+        "key": "KUPABOSS",
         "expirydate": "29-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "8690d2f538d66136",
-        "key": "IYOT",
+        "key": "IY",
         "expirydate": "24-04-2029",
         "Allowoffline": false
     },
     {
         "device_id": "bfa6487578e31995",
-        "key": "trialonly",
+        "key": "trianly",
         "expirydate": "25-04-2026",
         "Allowoffline": false
     },
     {
         "device_id": "494faceca6248227",
-        "key": "TRIAL-ONLY",
+        "key": "TRIALNLY",
         "expirydate": "26-04-2026",
         "Allowoffline": false
     },
@@ -79,7 +79,7 @@
     },
     {
         "device_id": "device456",
-        "key": "key67890",
+        "key": "ke7890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
